@@ -1,0 +1,32 @@
+_repo: Lily-Norris-Enemy_44991
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44991-h/images/cover-image1.jpg
+creator:
+  author:
+    agent_name: Mathews, Joanna H. (Joanna Hooe)
+    birthdate: 1849
+    deathdate: 1901
+    gutenberg_agent_id: '2089'
+    url: http://www.gutenberg.org/2009/agents/2089
+description: ''
+gutenberg_issued: '2014-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quakers -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Homelessness -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Procrastination -- Juvenile fiction'
+title: Lily Norris' Enemy
+url: http://www.gutenberg.org/ebooks/44991
